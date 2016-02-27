@@ -1,0 +1,36 @@
+_repo: Much-Ado-about-Nothing_2240
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Much Ado About Nothing is a romantic comedy by William Shakespeare set
+  in Messina, Sicily about a pair of lovers named Claudio and Hero due to be married
+  in a week. To pass the time before their wedding day they conspire with Don Pedro,
+  the prince of Aragon, to trick their friends, Beatrice and Benedick, into confessing
+  their love for one another. The prince's brother Don John, however, jealous of both
+  Don Pedro's power and his affection for Claudio, conspires to sabotage the coming
+  wedding. [Adapted from http://en.wikipedia.org/wiki/Much_Ado_about_Nothing].
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rejection (Psychology) -- Drama'
+- !lcsh 'Conspiracies -- Drama'
+- !lcsh 'Messina (Italy) -- Drama'
+- !lcsh 'Courtship -- Drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+title: Much Ado about Nothing
+url: http://www.gutenberg.org/ebooks/2240
