@@ -1,5 +1,8 @@
 _repo: Much-Ado-about-Nothing_2240
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -18,6 +21,8 @@ description: Much Ado About Nothing is a romantic comedy by William Shakespeare 
   their love for one another. The prince's brother Don John, however, jealous of both
   Don Pedro's power and his affection for Claudio, conspires to sabotage the coming
   wedding. [Adapted from http://en.wikipedia.org/wiki/Much_Ado_about_Nothing].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2240#Much-Ado-about-Nothing
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
